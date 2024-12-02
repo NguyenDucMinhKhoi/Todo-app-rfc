@@ -83,13 +83,6 @@ todo-app-rfc/
 
 ---
 
-**Screenshots**
-
-**Homepage**
-![Todo App Screenshot](https://via.placeholder.com/800x400?text=Todo+App+Screenshot)
-
----
-
 **Future Enhancements**
 
 - Add due dates and reminders for tasks.
